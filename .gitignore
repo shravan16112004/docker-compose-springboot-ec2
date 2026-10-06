@@ -1,8 +1,8 @@
+.env
 target/
-*.jar
-*.zip
-frontend/0cf1d6af5ca7
-frontend/88cf663a937a
-frontend/cd953d4bd4cb
-frontend/Removed
-frontend/Running
+*.pem
+*.key
+*.log
+.idea/
+.vscode/
+.DS_Store
